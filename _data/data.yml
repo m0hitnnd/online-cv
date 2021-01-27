@@ -53,35 +53,35 @@ education:
       details: |
 experiences:
     - role: Technical Lead iOS
-      time: Nov, 2020 - Present
+      time: Nov 2020 - Present
       company: Paytm Money, Bangalore
       details: |
         My role at Paytm Money as Tech Lead
           - Some point
           - Another point
     - role: Senior Software Engineer iOS
-      time: Aug,2019 - Oct, 2020
+      time: Aug 2019 - Oct 2020
       company: Paytm Money, Bangalore
       details: |
         My role at Paytm Money as SSE
           - Some point
           - Another point
     - role: Software Engineer iOS
-      time: May,2018 - July,2019
+      time: May 2018 - July 2019
       company: Paytm Money, Bangalore
       details: |
         My role at Paytm Money as SE
           - Some point
           - Another point
     - role: Senior Software Engineer iOS
-      time: Jan,2018 - May,2018
+      time: Jan 2018 - May 2018
       company: Kuliza, Bangalore
       details: |
         My role at Kuliza as SSE
           - Some point
           - Another point
     - role: Software Engineer iOS
-      time: Sep 2016 - Jan,2018
+      time: Sep 2016 - Jan 2018
       company: Kuliza, Bangalore
       details: |
         My role at Kuliza as SE
@@ -91,6 +91,7 @@ experiences:
       time: Feb 2016 - Aug 2016
       company: PressplayTV, New Delhi
       details: |
+        My first job 
         My role at PressplayTV as SE Intern
           - Some point
           - Another point
