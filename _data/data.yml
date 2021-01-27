@@ -73,6 +73,28 @@ experiences:
         My role at Paytm Money as SE
           - Some point
           - Another point
+    - role: Senior Software Engineer iOS
+      time: Jan,2018 - May,2018
+      company: Kuliza, Bangalore
+      details: |
+        My role at Kuliza as SSE
+          - Some point
+          - Another point
+    - role: Software Engineer iOS
+      time: Sep 2016 - Jan,2018
+      company: Kuliza, Bangalore
+      details: |
+        My role at Kuliza as SE
+          - Some point
+          - Another point
+    - role: Software Engineer Intern Android
+      time: Feb 2016 - Aug 2016
+      company: PressplayTV, New Delhi
+      details: |
+        My role at PressplayTV as SE Intern
+          - Some point
+          - Another point
+     
 skills:
     title: Skills &amp; Proficiency
 
