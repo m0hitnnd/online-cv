@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mohit Anand
     tagline: iOS Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mohitanand95.ma@gmail.com
