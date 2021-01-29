@@ -80,17 +80,13 @@ experiences:
             App was featured on App Store under Easier with Siri Shortcuts section.
           - Built deeplink architecture across the app.
           - Various Modules using RxSwift with MVVM.
-    - role: Senior Software Engineer iOS
-      time: Jan 2018 - May 2018
-      company: Kuliza, Bangalore
-      details: |
-          - iOS Application for Acko General Insurance Ltd. Lead a team of 3 developers.
-          - Introduced Declarative Programming using RxSwift in the codebase.
     - role: Software Engineer iOS
-      time: Sep 2016 - Jan 2018
+      time: Sep 2016 - May 2018
       company: Kuliza, Bangalore
       details: |
         Switched to a service based company which had some kickass clients.
+          - iOS Application for Acko General Insurance Ltd. Lead a team of 3 developers.
+          - Introduced Declarative Programming using RxSwift in the codebase.
           - Built an iOS application(Active Account, a liquid fund based app) in Swift with a team of 2 developers 
             for Aditya Birla Sun Life AMC Ltd.
           - Started working on Swift Codebase.
