@@ -71,7 +71,7 @@ experiences:
       time: May 2018 - July 2019
       company: Paytm Money, Bangalore
       details: |
-        Joined iOS team to build an investment app - Paytm Money
+        Joined iOS team to build an investment app - <a href="https://apps.apple.com/in/app/paytm-money-stocks-trading-app/id1344431352" target="_blank" rel="nofollow"> Paytm Money
           - Enabled PaytmMoney App with **Siri Shortcuts**. App was featured on App Store under Easier with Siri Shortcuts section.
           - Built deeplink architecture across the app.
           - Various Modules using **RxSwift with MVVM**.
