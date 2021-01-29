@@ -62,7 +62,7 @@ experiences:
       time: Aug 2019 - Oct 2020
       company: Paytm Money, Bangalore
       details: |
-          - Introduced *Snapshoty Testing* of UI Components to enhance reliability of the code.
+          - Introduced **Snapshoty Testing** of UI Components to enhance reliability of the code.
           - Restuctured the app for Apple retail stores. The only finance app to be featured in Apple retail stores in India.
           - Automated boilerplate code for writing unit test for API Routers using Sourcery(Meta programming for Swift) and stencil(Template Language for Swift).
           - Worked on launch of dark mode. App got featured on the App Store.
