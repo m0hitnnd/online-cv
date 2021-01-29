@@ -9,7 +9,6 @@ sidebar:
     # Profile information
     name: Mohit Anand
     tagline: iOS Developer
-    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mohitanand95.ma@gmail.com
@@ -56,27 +55,29 @@ experiences:
       time: Nov 2020 - Present
       company: Paytm Money, Bangalore
       details: |
-        My role at Paytm Money as Tech Lead
-          - Some point
-          - Another point
+          - Leading Mutual Fund & NPS vertical from iOS side.
+          - Guided and worked with a team to launch EPF Module with
+            test driven development approach.
+          - Added post commit scripts to flag programming & stylistic errors.
     - role: Senior Software Engineer iOS
       time: Aug 2019 - Oct 2020
       company: Paytm Money, Bangalore
       details: |
-          - Introduced Snapshot Testing of UI Components to enhannce reliability of the code.
+          - Introduced Snapshot Testing of UI Components to enhance reliability of the code.
           - Restuctured the app for Apple retail stores.
             The only finance app to be featured in Apple retail stores in India.
           - Automated boilerplate code for writing unit test for API Routers
             using Sourcery(Meta programming for Swift) and stencil(Template Language for Swift).
+          - Worked on launch of dark mode. App got featured on the App Store.
           - Refactored some modules with TDD approach.
             Used RxTest & RxBlocking to test view models.
     - role: Software Engineer iOS
       time: May 2018 - July 2019
       company: Paytm Money, Bangalore
       details: |
-        Joined iOS team to build a mutual fund investment app - Paytm Money
+        Joined iOS team to build an investment app - Paytm Money
           - Enabled PaytmMoney App with Siri Shortcuts.
-          - App was featured on App Store under `Easier with Siri Shortcuts` section.
+            App was featured on App Store under Easier with Siri Shortcuts section.
           - Built deeplink architecture across the app.
           - Various Modules using RxSwift with MVVM.
     - role: Senior Software Engineer iOS
@@ -92,11 +93,12 @@ experiences:
         Switched to a service based company which had some kickass clients.
           - Built an iOS application(Active Account, a liquid fund based app) in Swift with a team of 2 developers 
             for Aditya Birla Sun Life AMC Ltd.
+          - Started working on Swift Codebase.
     - role: Software Engineer Intern Android
       time: Feb 2016 - Aug 2016
       company: PressplayTV, New Delhi
       details: |
-        My first job in a software world -  A startup.  Joined as an intern to work on their android app(OTT platform).
+        My first job in a software world -  A startup. Joined as an intern to work on their android app(OTT platform).
         Switched to iOS development after couple of months.
           - Worked on Objective C codebase.
           - Company got shut. Sigh.
