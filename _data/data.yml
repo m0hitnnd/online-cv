@@ -98,6 +98,15 @@ experiences:
         Switched to iOS development after couple of months.
           - Worked on Objective C codebase.
           - Company got shut. Sigh.
+         
+publications:
+    title: Talks
+    intro: |
+    papers:
+      - title: Make our Siri Better
+        link: "#"
+        authors:
+        conference: Swift Bangalore Meetup
      
 skills:
     title: Skills &amp; Proficiency
