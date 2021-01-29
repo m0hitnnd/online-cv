@@ -56,7 +56,7 @@ experiences:
       company: Paytm Money, Bangalore
       details: |
           - Leading Mutual Fund & NPS vertical from iOS side.
-          - Guided and worked with a team to launch EPF Module with test driven development approach.
+          - Guided and worked with a team to launch EPF Module with **test driven development** approach.
           - Added scripts to flag programming & stylistic errors.
     - role: Senior Software Engineer iOS
       time: Aug 2019 - Oct 2020
@@ -66,7 +66,7 @@ experiences:
           - Restuctured the app for Apple retail stores. The only finance app to be featured in Apple retail stores in India.
           - Automated boilerplate code for writing unit test for API Routers using **Sourcery**(Meta programming for Swift) and **Stencil**(Template Language for Swift).
           - Worked on launch of **dark mode**. App got featured on the App Store.
-          - Refactored some modules with **TDD** approach. Used **RxTest** & **RxBlocking** to test view models.
+          - Refactored some modules with TDD approach. Used **RxTest** & **RxBlocking** to test view models.
     - role: Software Engineer iOS
       time: May 2018 - July 2019
       company: Paytm Money, Bangalore
