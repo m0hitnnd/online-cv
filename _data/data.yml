@@ -106,23 +106,23 @@ publications:
       - title: Make our Siri Better
         link: "#"
         authors:
-        conference: Swift Bangalore Meetup
+        conference: Swift Bangalore Meetup, 2019
      
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Swift
-        level: 98%
+        level: 80%
 
       - name: RxSwift
-        level: 98%
+        level: 70%
 
       - name: Objective C
-        level: 98%
+        level: 50%
 
       - name: Git
-        level: 95%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        level: 60%
+        
+      - name: C++ with STL
+        level: 50%
