@@ -8,10 +8,7 @@ jQuery(document).ready(function($) {
         
             var itemWidth = $(this).data('level');
             
-            $(this).animate({
-                width: itemWidth
-            }, 800);
-            
+    
         });
 
     });
